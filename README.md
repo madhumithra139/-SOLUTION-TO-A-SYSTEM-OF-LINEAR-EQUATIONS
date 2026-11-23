@@ -13,7 +13,9 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
-## Program:
+## Program:<img width="752" height="854" alt="Screenshot 2026-11-21 082408" src="https://github.com/user-attachments/assets/0a919902-b2b5-4b7c-98c1-aa3aaa4dd22d" />
+
+
 
 ## Output:
 ## Result: 
